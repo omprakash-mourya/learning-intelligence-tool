@@ -8,6 +8,16 @@ The project is intentionally designed as a **production-style AI system**, not a
 
 ---
 
+## 🔗 Live Deployment (Streamlit)
+The tool is deployed as a live, publicly accessible Streamlit application:
+
+**Live App URL:**  
+https://learning-intelligence-tool.streamlit.app/
+
+This deployment allows evaluators to directly interact with the AI system without local setup.
+
+---
+
 ## Key AI Capabilities
 - **Course Completion Prediction**  
   Binary classification to predict whether a student will complete a course.
@@ -100,8 +110,7 @@ This project does **not** claim real-world accuracy and is intended to demonstra
 
 ---
 
-## How to Run the Tool (Executable Deployment)
-This project is deployed as a **locally executable AI tool**.
+## How to Run the Tool Locally (Executable Deployment)
 
 ### 1. Install dependencies
 pip install -r requirements.txt
@@ -122,6 +131,8 @@ Basic unit tests are included to validate:
 
 Run tests using:
 pytest
+
+
 ---
 
 ## AI Usage Disclosure
