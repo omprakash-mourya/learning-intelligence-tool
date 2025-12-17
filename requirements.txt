@@ -5,5 +5,3 @@ joblib
 streamlit
 matplotlib
 pytest
-pydantic
-seaborn
